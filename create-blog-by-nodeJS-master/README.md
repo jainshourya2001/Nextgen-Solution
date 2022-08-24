@@ -13,7 +13,7 @@ this result in this project implemented
 
 ## Authors
 
-- [@rajkumar060301](https://github.com/rajkumar060301)
+- [@rajkumar060301](https://github.com/jainshourya2001/Nextgen-Solution)
 
 
 ## Features
@@ -29,12 +29,9 @@ I'm a full stack developer...
 
 
 ## 🔗 Links
-[![portfolio](https://raj-kumar-personal-portfolio.dorik.io/)
-[![linkedin](https://www.linkedin.com/in/rajkumar060301/)
-[![twitter](https://twitter.com/rajkumar6301)
+[![linkedin](https://www.linkedin.com/in/shourya-jain-90634a210/)
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
 
 ![](image/1.png)
