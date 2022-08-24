@@ -13,7 +13,7 @@ this result in this project implemented
 
 ## Authors
 
-- [@rajkumar060301](https://github.com/jainshourya2001/Nextgen-Solution)
+- [jainshourya1999](https://github.com/jainshourya2001/Nextgen-Solution)
 
 
 ## Features
